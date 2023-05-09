@@ -4,3 +4,4 @@ print("Second Line")
 
 print("Before Numpy")
 
+print("It doesn't work")
